@@ -1,0 +1,17 @@
+filename,object_location,image_small,image_thumb
+1.jpg,/objects/1.jpg,/objects/small/1_sm.jpg,/objects/thumbs/1_th.jpg
+3.png,/objects/3.png,/objects/small/3_sm.jpg,/objects/thumbs/3_th.jpg
+360-luxor.jpg,/objects/360-luxor.jpg,/objects/small/360-luxor_sm.jpg,/objects/thumbs/360-luxor_th.jpg
+anubis.mp3,/objects/anubis.mp3,,
+anubis.obj,/objects/anubis.obj,,
+immerse-inside.JPG,/objects/immerse-inside.JPG,/objects/small/immerse-inside_sm.jpg,/objects/thumbs/immerse-inside_th.jpg
+immerse.png,/objects/immerse.png,/objects/small/immerse_sm.jpg,/objects/thumbs/immerse_th.jpg
+main-hall.mp4,/objects/main-hall.mp4,,
+mainhall.png,/objects/mainhall.png,/objects/small/mainhall_sm.jpg,/objects/thumbs/mainhall_th.jpg
+mainhall2.mp4,/objects/mainhall2.mp4,,
+museum-gate.jpg,/objects/museum-gate.jpg,/objects/small/museum-gate_sm.jpg,/objects/thumbs/museum-gate_th.jpg
+statues.mp4,/objects/statues.mp4,,
+statues2.mp4,/objects/statues2.mp4,,
+symbols.jpg,/objects/symbols.jpg,/objects/small/symbols_sm.jpg,/objects/thumbs/symbols_th.jpg
+symbols.mp4,/objects/symbols.mp4,,
+symbols2.jpg,/objects/symbols2.jpg,/objects/small/symbols2_sm.jpg,/objects/thumbs/symbols2_th.jpg

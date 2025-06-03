@@ -1,0 +1,17 @@
+objectid,title,filename,object_location,image_small,image_thumb,display_template,format,subject
+gem_001,GEM Museum Exterior,1.jpg,/objects/1.jpg,/objects/small/1_sm.jpg,/objects/thumbs/1_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_002,Inside Immersive Exhibit,3.png,/objects/3.png,/objects/small/3_sm.jpg,/objects/thumbs/3_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_003,Luxor Temple 360 Image,360-luxor.jpg,/objects/360-luxor.jpg,/objects/small/360-luxor_sm.jpg,/objects/thumbs/360-luxor_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_004,Anubis Welcome Message,anubis.mp3,/objects/anubis.mp3,,,audio,audio/mp3,Egypt; Museum; History
+gem_005,Anubis Character,anubis.obj,/objects/anubis.obj,,,record,,Egypt; Museum; History
+gem_006,Inside Immersive Exhibit,immerse-inside.JPG,/objects/immerse-inside.JPG,/objects/small/immerse-inside_sm.jpg,/objects/thumbs/immerse-inside_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_007,Immersive Exhibit Poster,immerse.png,/objects/immerse.png,/objects/small/immerse_sm.jpg,/objects/thumbs/immerse_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_008,Main Hall,main-hall.mp4,/objects/main-hall.mp4,,,video,video/mpeg,Egypt; Museum; History
+gem_009,Main Hall,mainhall.png,/objects/mainhall.png,/objects/small/mainhall_sm.jpg,/objects/thumbs/mainhall_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_010,Main Hall,mainhall2.mp4,/objects/mainhall2.mp4,,,video,video/mpeg,Egypt; Museum; History
+gem_011,GEM Museum Gate,museum-gate.jpg,/objects/museum-gate.jpg,/objects/small/museum-gate_sm.jpg,/objects/thumbs/museum-gate_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_012,Statue,statues.mp4,/objects/statues.mp4,,,video,video/mpeg,Egypt; Museum; History
+gem_013,Statue,statues2.mp4,/objects/statues2.mp4,,,video,video/mpeg,Egypt; Museum; History
+gem_014,Egyptian Symbols,symbols.jpg,/objects/symbols.jpg,/objects/small/symbols_sm.jpg,/objects/thumbs/symbols_th.jpg,image,image/jpeg,Egypt; Museum; History
+gem_015,Egyptian Symbols,symbols.mp4,/objects/symbols.mp4,,,video,video/mpeg,Egypt; Museum; History
+gem_016,Egyptian Symbols,symbols2.jpg,/objects/symbols2.jpg,/objects/small/symbols2_sm.jpg,/objects/thumbs/symbols2_th.jpg,image,image/jpeg,Egypt; Museum; History
